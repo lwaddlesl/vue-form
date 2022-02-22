@@ -288,14 +288,12 @@ export default {
         clients: [],
         doctor: "",
         sms: false,
-        //Adress
         index: "",
         country: "",
         region: "",
         city: "",
         street: "",
         home: "",
-        //Pasport
         documentType: "",
         series: "",
         passportNumber: "",
