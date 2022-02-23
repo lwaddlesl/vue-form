@@ -1,5 +1,7 @@
 # vue-form
 
+Demo: https://lwaddlesl.github.io/vue-form/
+
 ## Project setup
 ```
 npm install
